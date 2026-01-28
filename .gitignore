@@ -1,0 +1,20 @@
+# Python virtual env
+venv/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML models / weights
+*.safetensors
+*.pt
+*.bin
+*.onnx
+
+# Torch / rust binaries
+*.dll
+*.pyd
+
+# Env
+.env
