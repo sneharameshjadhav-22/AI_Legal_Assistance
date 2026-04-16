@@ -22,3 +22,4 @@ chromadb
 # PDF Processing
 pdfplumber
 pymupdf
+email-validator
