@@ -2,28 +2,31 @@ fastapi
 uvicorn
 python-dotenv
 
-# Database
+
+
 sqlalchemy
 psycopg2-binary
 
-# Authentication
+
+
 python-jose
 passlib[bcrypt]
 python-multipart
 
 pydantic[email]
 
-# ML / NLP
+
+
 torch
 transformers
 sentence-transformers
 
-# Vector DB
+
+
 chromadb
 
-# PDF Processing
+
 pdfplumber
 pymupdf
 
-# HTTP Requests
 requests
