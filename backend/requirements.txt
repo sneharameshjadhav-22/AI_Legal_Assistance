@@ -10,16 +10,19 @@ psycopg2-binary
 python-jose
 passlib[bcrypt]
 python-multipart
+email-validator
 
-# ML & NLP (later use, but install now)
+# ML / NLP
 torch
 transformers
 sentence-transformers
 
-# Vector DB (RAG)
+# Vector DB
 chromadb
 
 # PDF Processing
 pdfplumber
 pymupdf
-email-validator
+
+# HTTP Requests
+requests
